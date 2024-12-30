@@ -23,6 +23,12 @@ pkg upgrade
 ```
 pkg install python
 ```
+```
+cd ren-ddosv5
+```
+```
+python ren9999.py
+```
 
 # 2. Mengunduh Repositori
 
